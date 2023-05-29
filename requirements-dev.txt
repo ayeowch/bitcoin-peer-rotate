@@ -32,7 +32,7 @@ Pygments==2.15.1
 pyproject_hooks==1.0.0
 pytest==7.3.1
 python-dotenv==1.0.0
-requests==2.29.0
+requests==2.31.0
 six==1.16.0
 stack-data==0.6.2
 traitlets==5.9.0
